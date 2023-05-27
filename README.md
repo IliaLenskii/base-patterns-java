@@ -1,7 +1,6 @@
-# base-patterns-java
-Popular java design patterns
+Popular java design patterns 
 
-behavioral
-creational
-    - Factory 
-structural
+1. behavioral 
+2. creational 
+    - Factory
+3. structural 
