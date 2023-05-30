@@ -10,6 +10,7 @@ package base.patterns;
  *   creational
  *      - Factory
  *      - Abstract factory
+ *      - Singleton
  *   structural
  * 
  */

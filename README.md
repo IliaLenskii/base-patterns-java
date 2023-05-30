@@ -4,4 +4,5 @@ Popular java design patterns
 2. creational 
     - Factory
 	- Abstract factory
+	- Singleton
 3. structural 
