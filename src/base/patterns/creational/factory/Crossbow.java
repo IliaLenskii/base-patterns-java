@@ -4,7 +4,7 @@ package base.patterns.creational.factory;
  *
  * @author il.lenskii
  */
-public class Crossbow implements GameWeapon {
+public class Crossbow implements IGameWeapon {
     
     @Override
     public void shot() {

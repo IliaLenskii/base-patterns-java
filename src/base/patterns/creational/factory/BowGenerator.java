@@ -7,7 +7,7 @@ package base.patterns.creational.factory;
 public class BowGenerator extends ShooterGenerator {
 
     @Override
-    public GameWeapon showWeapon() {
+    public IGameWeapon showWeapon() {
         
         return new Bow();
     }    

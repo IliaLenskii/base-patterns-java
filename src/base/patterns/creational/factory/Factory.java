@@ -9,7 +9,7 @@ public class Factory {
     public static void main(String[] args) {
 
         ShooterGenerator takeWeapon = new CrossbowGenerator(); // BowGenerator
-        GameWeapon wg = takeWeapon.showWeapon();
+        IGameWeapon wg = takeWeapon.showWeapon();
 
         wg.shot();
     }

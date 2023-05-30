@@ -8,9 +8,9 @@ public abstract class ShooterGenerator {
     
     public void takeShot() {
         
-        GameWeapon sh = showWeapon();
+        IGameWeapon sh = showWeapon();
         sh.shot();
     }
 
-    public abstract GameWeapon showWeapon();
+    public abstract IGameWeapon showWeapon();
 }

@@ -8,7 +8,8 @@ package base.patterns;
  * Patterns:
  *   behavioral
  *   creational
- *      - Factory 
+ *      - Factory
+ *      - Abstract factory
  *   structural
  * 
  */
