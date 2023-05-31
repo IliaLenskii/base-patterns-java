@@ -6,4 +6,5 @@ Popular java design patterns
 	- Abstract factory
 	- Singleton
 	- Builder
+	- Prototype
 3. structural 
