@@ -11,6 +11,7 @@ package base.patterns;
  *      - Factory
  *      - Abstract factory
  *      - Singleton
+ *      - Builder
  *   structural
  * 
  */
