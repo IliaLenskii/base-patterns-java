@@ -8,3 +8,4 @@ Popular java design patterns
 	- Builder
 	- Prototype
 3. structural 
+	- Adapter
