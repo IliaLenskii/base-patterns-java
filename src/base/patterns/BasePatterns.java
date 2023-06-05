@@ -15,6 +15,7 @@ package base.patterns;
  *      - Prototype
  *   structural
  *      - Adapter
+ *      - Bridge
  * 
  */
 public class BasePatterns {

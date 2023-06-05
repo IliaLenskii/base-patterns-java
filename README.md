@@ -9,3 +9,4 @@ Popular java design patterns
 	- Prototype
 3. structural 
 	- Adapter
+	- Bridge
