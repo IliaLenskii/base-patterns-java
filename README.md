@@ -10,3 +10,4 @@ Popular java design patterns
 3. structural 
 	- Adapter
 	- Bridge
+	- Composite
