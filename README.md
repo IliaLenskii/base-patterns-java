@@ -12,3 +12,4 @@ Popular java design patterns
 	- Bridge
 	- Composite
 	- Decorator
+	- Facade

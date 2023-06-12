@@ -17,7 +17,8 @@ package base.patterns;
  *      - Adapter
  *      - Bridge
  *      - Composite
-*       - Decorator
+ *      - Decorator
+ *      - Facade
  * 
  */
 public class BasePatterns {
