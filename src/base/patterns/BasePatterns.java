@@ -19,6 +19,7 @@ package base.patterns;
  *      - Composite
  *      - Decorator
  *      - Facade
+ *      - Flyweight
  * 
  */
 public class BasePatterns {

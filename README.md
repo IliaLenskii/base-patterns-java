@@ -13,3 +13,4 @@ Popular java design patterns
 	- Composite
 	- Decorator
 	- Facade
+	- Flyweight
