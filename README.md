@@ -11,3 +11,4 @@ Popular java design patterns
 	- Adapter
 	- Bridge
 	- Composite
+	- Decorator

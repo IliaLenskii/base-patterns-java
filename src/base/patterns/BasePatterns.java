@@ -1,7 +1,7 @@
 
 package base.patterns;
 
-/**
+/*
  *
  * @author il.lenskii
  * 
@@ -17,6 +17,7 @@ package base.patterns;
  *      - Adapter
  *      - Bridge
  *      - Composite
+*       - Decorator
  * 
  */
 public class BasePatterns {

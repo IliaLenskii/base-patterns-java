@@ -1,0 +1,24 @@
+
+package base.patterns.structural.decorator;
+
+public class DecoratorHello extends AbstractDecorator {
+    
+    public DecoratorHello(IComponent c) {
+        
+        super(c);
+    }
+
+    @Override
+    public void doOperation() {
+
+        System.out.print("Hello");
+        
+        super.doOperation();
+    }
+
+    @Override
+    public void newOperation() {
+
+        System.out.println("New hello operation");
+    }
+}
