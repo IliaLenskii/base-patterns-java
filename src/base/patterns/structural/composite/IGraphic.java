@@ -1,7 +1,7 @@
 
 package base.patterns.structural.composite;
 
-public interface Graphic {
+public interface IGraphic {
     
     public void print();
 }

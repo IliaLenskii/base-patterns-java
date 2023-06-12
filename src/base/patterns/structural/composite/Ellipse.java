@@ -2,7 +2,7 @@
 package base.patterns.structural.composite;
 
 
-public class Ellipse implements Graphic {
+public class Ellipse implements IGraphic {
 
     @Override
     public void print() {

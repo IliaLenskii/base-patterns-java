@@ -4,24 +4,24 @@ package base.patterns.structural.composite;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CompositeGraphic implements Graphic {
+public class CompositeGraphic implements IGraphic {
 
-    private final List<Graphic> childGp = new ArrayList<>();
+    private final List<IGraphic> childGp = new ArrayList<>();
 
     @Override
     public void print() {
 
-        for (Graphic graphic : childGp) {
+        for (IGraphic graphic : childGp) {
              graphic.print();
          }
     }
 
-    public void add(Graphic graphic) {
+    public void add(IGraphic graphic) {
 
         childGp.add(graphic);
     }
 
-    public void remove(Graphic graphic) {
+    public void remove(IGraphic graphic) {
 
         childGp.remove(graphic);
     }
