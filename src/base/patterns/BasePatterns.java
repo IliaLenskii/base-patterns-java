@@ -20,6 +20,7 @@ package base.patterns;
  *      - Decorator
  *      - Facade
  *      - Flyweight
+ *      - Proxy
  * 
  */
 public class BasePatterns {

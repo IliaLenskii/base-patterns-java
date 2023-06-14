@@ -14,3 +14,4 @@ Popular java design patterns
 	- Decorator
 	- Facade
 	- Flyweight
+	- Proxy
