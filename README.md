@@ -2,6 +2,7 @@ Popular java design patterns
 
 1. behavioral 
 	- Chain of responsibility
+	- Command
 2. creational 
 	- Factory
 	- Abstract factory
