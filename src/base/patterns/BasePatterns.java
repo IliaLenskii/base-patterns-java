@@ -9,6 +9,7 @@ package base.patterns;
  *   behavioral
  *      - Chain of responsibility
  *      - Command
+ *      - Interpreter (Little (Small) Language)
  *   creational
  *      - Factory
  *      - Abstract factory
