@@ -4,6 +4,7 @@ Popular java design patterns
 	- Chain of responsibility
 	- Command
 	- Interpreter (Little (Small) Language)
+	- Iterator
 2. creational 
 	- Factory
 	- Abstract factory
