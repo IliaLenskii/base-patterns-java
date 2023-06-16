@@ -11,6 +11,7 @@ package base.patterns;
  *      - Command
  *      - Interpreter (Little (Small) Language)
  *      - Iterator
+ *      - Mediator
  *   creational
  *      - Factory
  *      - Abstract factory

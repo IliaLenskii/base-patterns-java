@@ -5,6 +5,7 @@ Popular java design patterns
 	- Command
 	- Interpreter (Little (Small) Language)
 	- Iterator
+	- Mediator
 2. creational 
 	- Factory
 	- Abstract factory
