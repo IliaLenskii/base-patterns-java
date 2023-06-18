@@ -12,6 +12,7 @@ package base.patterns;
  *      - Interpreter (Little (Small) Language)
  *      - Iterator
  *      - Mediator
+ *      - Memento
  *   creational
  *      - Factory
  *      - Abstract factory

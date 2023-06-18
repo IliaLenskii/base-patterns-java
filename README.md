@@ -6,6 +6,7 @@ Popular java design patterns
 	- Interpreter (Little (Small) Language)
 	- Iterator
 	- Mediator
+	- Memento
 2. creational 
 	- Factory
 	- Abstract factory
