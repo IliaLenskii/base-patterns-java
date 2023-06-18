@@ -13,6 +13,7 @@ package base.patterns;
  *      - Iterator
  *      - Mediator
  *      - Memento
+ *      - Observer (Dependents)
  *   creational
  *      - Factory
  *      - Abstract factory
