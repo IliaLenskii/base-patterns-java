@@ -8,6 +8,7 @@ Popular java design patterns
 	- Mediator
 	- Memento
 	- Observer (Dependents)
+	- State
 2. creational 
 	- Factory
 	- Abstract factory
