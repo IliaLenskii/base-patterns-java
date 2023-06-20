@@ -15,6 +15,7 @@ package base.patterns;
  *      - Memento
  *      - Observer (Dependents)
  *      - State
+ *      - Strategy
  *   creational
  *      - Factory
  *      - Abstract factory

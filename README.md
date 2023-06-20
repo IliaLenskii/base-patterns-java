@@ -9,6 +9,7 @@ Popular java design patterns
 	- Memento
 	- Observer (Dependents)
 	- State
+	- Strategy
 2. creational 
 	- Factory
 	- Abstract factory
