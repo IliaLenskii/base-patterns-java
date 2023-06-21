@@ -10,6 +10,7 @@ Popular java design patterns
 	- Observer (Dependents)
 	- State
 	- Strategy
+	- Template method
 2. creational 
 	- Factory
 	- Abstract factory
