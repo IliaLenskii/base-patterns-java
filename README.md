@@ -11,6 +11,7 @@ Popular java design patterns
 	- State
 	- Strategy
 	- Template method
+	- Visitor
 2. creational 
 	- Factory
 	- Abstract factory

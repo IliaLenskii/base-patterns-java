@@ -17,6 +17,7 @@ package base.patterns;
  *      - State
  *      - Strategy
  *      - Template method
+ *      - Visitor
  *   creational
  *      - Factory
  *      - Abstract factory
